@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0414-third-maximum-number) |
+| [0896-monotonic-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0896-monotonic-array) |
 ## Binary Search
 |  |
 | ------- |
