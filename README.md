@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0605-can-place-flowers) |
 | [0896-monotonic-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0896-monotonic-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -80,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0605-can-place-flowers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
