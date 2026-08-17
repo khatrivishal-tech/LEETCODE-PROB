@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0724-find-pivot-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
