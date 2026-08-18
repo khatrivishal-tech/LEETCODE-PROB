@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0896-monotonic-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1688-count-of-matches-in-tournament) |
+| [3925-concatenate-array-with-reverse](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
