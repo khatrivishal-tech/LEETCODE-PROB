@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2169-count-operations-to-obtain-zero) |
 | [3099-harshad-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
