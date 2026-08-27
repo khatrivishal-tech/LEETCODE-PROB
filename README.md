@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0633-sum-of-square-numbers) |
+| [0905-sort-array-by-parity](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
