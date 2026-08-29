@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3701-compute-alternating-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2169-count-operations-to-obtain-zero) |
+| [3701-compute-alternating-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
