@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1688-count-of-matches-in-tournament](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2169-count-operations-to-obtain-zero) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
