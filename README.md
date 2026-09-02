@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2390-removing-stars-from-a-string) |
 | [3701-compute-alternating-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3340-check-balanced-string) |
 ## Number Theory
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
