@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0605-can-place-flowers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2396-strictly-palindromic-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
