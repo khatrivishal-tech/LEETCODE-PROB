@@ -8,15 +8,9 @@ class Solution {
         int y=0;
         int cnt=0;
         while(x>=y){
-            if(arr[x]!=arr[y]){
-                arr[x] -= 1;
-                arr[y] += 1;
-                cnt++;
-            }
-            else{
+            cnt += (arr[x]-arr[y])/2;
             x--;
             y++;
-            }
         }
         return cnt;
     }
