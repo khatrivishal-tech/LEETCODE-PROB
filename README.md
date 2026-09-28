@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1550-three-consecutive-odds](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1550-three-consecutive-odds) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0977-squares-of-a-sorted-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0633-sum-of-square-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2169-count-operations-to-obtain-zero) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0860-lemonade-change) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3898-find-the-degree-of-each-vertex) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
