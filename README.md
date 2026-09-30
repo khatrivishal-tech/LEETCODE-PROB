@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Math
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3925-concatenate-array-with-reverse) |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
