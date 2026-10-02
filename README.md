@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0412-fizz-buzz) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3340-check-balanced-string) |
