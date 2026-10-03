@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0977-squares-of-a-sorted-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
