@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3668-restore-finishing-order](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0169-majority-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
