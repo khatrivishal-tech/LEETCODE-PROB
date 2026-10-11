@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2574-left-and-right-sum-differences) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
