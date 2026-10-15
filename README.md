@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2390-removing-stars-from-a-string) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
