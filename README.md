@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2574-left-and-right-sum-differences) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0169-majority-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
