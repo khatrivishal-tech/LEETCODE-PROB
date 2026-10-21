@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1550-three-consecutive-odds](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1550-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0633-sum-of-square-numbers) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Game Theory
 |  |
