@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2574-left-and-right-sum-differences) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2678-number-of-senior-citizens](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2390-removing-stars-from-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3146-permutation-difference-between-two-strings) |
 | [3340-check-balanced-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3340-check-balanced-string) |
