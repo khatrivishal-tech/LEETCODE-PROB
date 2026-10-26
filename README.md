@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3668-restore-finishing-order) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1486-xor-operation-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/4020-elevator-requests-i) |
