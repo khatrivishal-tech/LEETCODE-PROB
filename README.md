@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3248-snake-in-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3248-snake-in-matrix) |
 | [3285-find-indices-of-stable-mountains](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2390-removing-stars-from-a-string) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
+| [3248-snake-in-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3701-compute-alternating-sum) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3146-permutation-difference-between-two-strings) |
+| [3248-snake-in-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3760-maximum-substrings-with-distinct-start) |
