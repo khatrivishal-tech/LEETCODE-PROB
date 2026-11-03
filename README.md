@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2942-find-words-containing-character) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
