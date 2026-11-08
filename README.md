@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3875-construct-uniform-parity-array-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3904-smallest-stable-index-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Bit Manipulation
 |  |
 | ------- |
