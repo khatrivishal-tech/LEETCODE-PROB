@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0217-contains-duplicate) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0217-contains-duplicate) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Game Theory
