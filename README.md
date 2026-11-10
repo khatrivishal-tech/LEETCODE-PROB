@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1550-three-consecutive-odds](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1550-three-consecutive-odds) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Game Theory
 |  |
