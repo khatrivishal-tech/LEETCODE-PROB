@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3248-snake-in-matrix) |
 | [3285-find-indices-of-stable-mountains](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3452-sum-of-good-numbers) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0724-find-pivot-index) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3903-smallest-stable-index-i) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2185-counting-words-with-a-given-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
