@@ -6,16 +6,15 @@ class Solution(object):
         :type r: int
         :rtype: int
         """
-        mini = sys.maxsize
+        mini = 100000
         n = len(nums)
         for i in range(n):
             for j in range(i+1,n+1):
-                for j in range(i + 1, n + 1):
                     if l <= len(nums[i:j]) <= r:
                         summ = sum(nums[i:j])
                         if summ < mini and summ > 0:
                             mini = summ
-        if mini == sys.maxsize:
+        if mini == 100000:
             return -1
         else:
             return mini
