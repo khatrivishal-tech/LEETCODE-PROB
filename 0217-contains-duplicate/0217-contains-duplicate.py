@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         s = set(nums)
-        if len(s) < len(nums):
-            return True
-        else:
+        if len(s) == len(nums):
             return False
+        else:
+            return True
