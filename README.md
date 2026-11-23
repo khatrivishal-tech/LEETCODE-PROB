@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2367-number-of-arithmetic-triplets) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1844-replace-all-digits-with-characters) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
