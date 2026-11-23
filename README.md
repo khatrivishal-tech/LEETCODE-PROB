@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-sum-of-good-numbers](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3668-restore-finishing-order) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Math
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3668-restore-finishing-order](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3668-restore-finishing-order) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Floyd's Cycle Finding Algorithm
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
