@@ -1,7 +1,8 @@
 class Solution:
     def earliestTime(self, nums: List[List[int]]) -> int:
-        res = [0]*len(nums)
+        minn = 99999999
         for i in range(len(nums)):
-            for j in range(len(nums[i])):
-                res[i]  +=  nums[i][j]
-        return min(res)
+            summ = sum(nums[i])
+            if summ < minn:
+                minn = summ
+        return minn
