@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2974-minimum-number-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2974-minimum-number-game) |
 | [3248-snake-in-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3248-snake-in-matrix) |
+| [3360-stone-removal-game](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3701-compute-alternating-sum) |
