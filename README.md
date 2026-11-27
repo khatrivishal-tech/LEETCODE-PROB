@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0922-sort-array-by-parity-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khatrivishal-tech/LEETCODE-PROB/tree/master/3898-find-the-degree-of-each-vertex) |
